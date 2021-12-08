@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JCYLKit (0.0.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JCYLKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JCYLKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JCYLKit: 2b6358c7565956733f72050df2af6a0d58142bb4
+
+PODFILE CHECKSUM: b4efd9d0fb9026c0c04866f3b324455da4ca9e14
+
+COCOAPODS: 1.10.1

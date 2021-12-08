@@ -1,0 +1,6 @@
+framework module JCYLKit {
+  umbrella header "JCYLKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
