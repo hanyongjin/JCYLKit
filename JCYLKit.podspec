@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JCYLKit'
-  s.version          = '0.0.4'
+  s.version          = '0.0.5'
   s.summary          = '精彩预览'
 
 # This description is used to generate tags and improve search results.
